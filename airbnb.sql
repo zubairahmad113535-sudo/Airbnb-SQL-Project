@@ -1,1 +1,0 @@
-SELECT * FROM airbnb_analysis.airbnb_listing;
